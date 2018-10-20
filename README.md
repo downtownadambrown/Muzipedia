@@ -1,6 +1,4 @@
 # Georgia Tech - Coding Boot Camp - Fall 2018
-### Group Project 1
-### App Title:  Muzipedia
 
 ## Overview
 
